@@ -1,0 +1,29 @@
+{
+  "name": "snaily",
+  "version": "1.0.0",
+  "description": "an express powered node module that will tail -f files under linux",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scramble45/snaily.git"
+  },
+  "keywords": [
+    "tail",
+    "linux",
+    "express",
+    "file"
+  ],
+  "author": "Rowan Hamilton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scramble45/snaily/issues"
+  },
+  "homepage": "https://github.com/scramble45/snaily#readme"
+}
